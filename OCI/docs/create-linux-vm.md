@@ -8,7 +8,7 @@
 * Windows users configure Putty to connect to the new VM using mykey.ppk and user opc
 * non-Window users use ```ssh -i mykey opc@<IP Address> ``` to connect and login 
 
-# Follow [Hands on Lab](https://github.com/nagypeter/weblogic-operator-tutorial/blob/master/tutorials/domain-home-in-image.md)
+# Link to [Hands on Lab](https://github.com/nagypeter/weblogic-operator-tutorial/blob/master/tutorials/domain-home-in-image.md)
 
 # Continue from [here](https://github.com/nagypeter/weblogic-operator-tutorial/blob/master/tutorials/setup.oke.md#prepare-oci-cli-to-download-kubernetes-configuration-file)
 
