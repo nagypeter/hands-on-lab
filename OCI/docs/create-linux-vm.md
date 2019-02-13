@@ -6,6 +6,6 @@
 * Click Create
 * Wait for the Public IP address to be assigned and VM status shows Running 
 * Windows users configure Putty to connect to the new VM using mykey.ppk and user opc
-* non-Window users use ssh -i mykey opc@<IP Address> to connect to the VM
+* non-Window users use ```ssh -i mykey opc@<IP Address> ``` to connect to the VM
 
 
