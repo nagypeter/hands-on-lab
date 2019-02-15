@@ -19,7 +19,7 @@
 [x] Select VCN        
     ![subnet1](../images/Subnet1.png)
     
-[x] Specify CIDR
+[x] Specify CIDR 10.0.20.0/24
     ![subnet2](../images/Subnet2.png)
     
    
@@ -27,12 +27,10 @@
 
 ### Task 2: Create Compute instance
 
-[x] Shape
+[x] Select Shape
     ![shape](../images/Instance3.png)
-    
-[x] Public Key
+[x] Select Public Key
     ![pubkey](../images/Instance4.png)
-    
 [x] Advanced options: Cloud-init
     ![cloud-init](../images/Instance5.png)
 
