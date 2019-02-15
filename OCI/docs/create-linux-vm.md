@@ -10,15 +10,17 @@
   * Ensure you have selected newly created subnet
 * Use ssh or putty to connect using pblic IP after VM is in running status
   * Windows users use mykey.ppk and login as user opc
-  * Mac or Linux use ```ssh -i mykey opc@<IP Address> ``` 
+  * Mac or Linux use ```  ssh -i mykey opc@<IP Address>   ``` 
   
 ## Detailed Steps:
 
 ### Task 1: Create Public Subnet
         
-    ![subnet1](../images/Subnet1.png)
+    ![subnet1](/images/Subnet1.png)
     
-    ![subnet2](../images/Subnet2.png)
+    ![subnet2](/images/Subnet2.png)
+    
+   
     
 
 ### Task 2: Create Compute instance
