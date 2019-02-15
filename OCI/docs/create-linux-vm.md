@@ -6,7 +6,7 @@
 * Create a public subnet - Example: CIDR 10.0.20.0/24 with default route and security in the same OKE VCN
 * Create a compute instance using VM.Standard.E2.1
   * Use mykey.pub from [mykey.zip](https://github.com/venkat50/hands-on-lab/raw/master/OCI/mykeys.zip)
-  * Use Advanced options and paste content of cloud-init [cloud-init.txt](https://github.com/venkat50/hands-on-lab/raw/master/OCI/cloud-init.txt)
+  * Use Advanced options and paste content of [cloud-init.txt](https://github.com/venkat50/hands-on-lab/raw/master/OCI/cloud-init.txt)
   * [TBD] bash -c "$(curl -L https://raw.githubusercontent.com/venkat50/hands-on-lab/master/OCI/hol-setup.sh)"
   * Ensure you have selected newly created subnet
 * Use ssh or putty to connect using pblic IP after VM is in running status
