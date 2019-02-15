@@ -10,7 +10,7 @@
   * Ensure you have selected newly created subnet
 * Use ssh or putty to connect using pblic IP after VM is in running status
   * Windows users use mykey.ppk and login as user opc
-  * Mac or Linux use ` ssh -i mykey opc@<IP Address> `
+  * Mac or Linux use `ssh -i mykey opc@<IP Address>`
   
 ## Detailed Steps:
 
@@ -24,12 +24,14 @@
    
 ### Task 2: Create Compute instance
 
-
+[x] Select Shape VM Standard E2.1
     ![shape](../images/Instance3.png)
 
+[x] Select mykey public key
     ![pubkey](../images/Instance4.png)
 
-    ![cloud-init](../images/Instance5.png)
+[x] Advanced Options: Paste cloud-init script 
+    ![cloud_init](../images/Instance5.png)
 
 
 # Link to [Hands on Lab](https://github.com/nagypeter/weblogic-operator-tutorial/blob/master/tutorials/domain-home-in-image.md)
