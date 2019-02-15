@@ -16,12 +16,10 @@
 
 ### Task 1: Create Public Subnet
 
-[] Select VCN
-        
+[x] Select VCN        
     ![subnet1](../images/Subnet1.png)
     
-[] Specify CIDR
-
+[x] Specify CIDR
     ![subnet2](../images/Subnet2.png)
     
    
@@ -29,14 +27,13 @@
 
 ### Task 2: Create Compute instance
 
-[] Shape
-
+[x] Shape
     ![shape](../images/Instance3.png)
     
-[] Public Key
+[x] Public Key
     ![pubkey](../images/Instance4.png)
     
-[] Advanced options: Cloud-init
+[x] Advanced options: Cloud-init
     ![cloud-init](../images/Instance5.png)
 
 
