@@ -18,7 +18,7 @@
         
     ![subnet1](../images/Subnet1.png)
     
-    ![subnet2]../images/Subnet2.png)
+    ![subnet2](../images/Subnet2.png)
     
 
 ### Task 2: Create Compute instance
