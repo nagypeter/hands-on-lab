@@ -16,16 +16,16 @@
 
 ### Task 1: Create Public Subnet
         
-    ![subnet1](images/Subnet1.PNG)
+    ![subnet1](../images/Subnet1.PNG)
     
-    ![subnet2]images/Subnet2.PNG)
+    ![subnet2]../images/Subnet2.PNG)
     
 
 ### Task 2: Create Compute instance
 
-    ![shape](images/Instance3.PNG)
-    ![pubkey](images/Instance4.PNG)
-    ![cloud-init](images/Instance5.PNG)
+    ![shape](../images/Instance3.PNG)
+    ![pubkey](../images/Instance4.PNG)
+    ![cloud-init](../images/Instance5.PNG)
 
 
 # Link to [Hands on Lab](https://github.com/nagypeter/weblogic-operator-tutorial/blob/master/tutorials/domain-home-in-image.md)
