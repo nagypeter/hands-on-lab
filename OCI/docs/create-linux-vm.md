@@ -16,9 +16,9 @@
 
 ### Task 1: Create Public Subnet
         
-    ![subnet1](/images/Subnet1.png)
+    ![subnet1](../images/Subnet1.png)
     
-    ![subnet2](/images/Subnet2.png)
+    ![subnet2](../images/Subnet2.png)
     
    
     
