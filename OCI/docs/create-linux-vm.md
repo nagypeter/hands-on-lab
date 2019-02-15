@@ -3,7 +3,7 @@
 
 ### High Level Steps
 * First create a OKE cluster using Quick Create.
-* Create a public subnet - Example: CIDR 10.0.20.0/24 with default route and security in the same OKE VCN
+* Create a public subnet using CIDR different from existing subnets - Example: CIDR 10.0.20.0/24 with default route and security in the same OKE VCN
 * Create a compute instance using VM.Standard.E2.1
   * Choose mykey.pub from [mykey.zip](https://github.com/venkat50/hands-on-lab/raw/master/OCI/mykeys.zip)
                        OR
