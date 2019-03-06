@@ -10,3 +10,7 @@ mv helm /usr/local/bin/helm
 mkdir -p /u01/content
 cd /u01/content
 git clone https://github.com/oracle/weblogic-kubernetes-operator.git
+useradd oracle
+chown -R oracle:oracle /u01/content
+cp -r /home/opc/.ssh /home/oracle
+chown -R oracle:oracle /home/oracle/.ssh
