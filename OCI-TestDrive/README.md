@@ -16,6 +16,7 @@ LINKS
 4. https://cloud.oracle.com/iaas/training/foundation
 5. https://cloud.oracle.com/en_US/iaas/training/advanced
 6. https://cloud.oracle.com/en_US/iaas/getting-started#demos
+7. https://docs.cloud.oracle.com/iaas/Content/ContEng/Concepts/contengoverview.htm
 
 
 
@@ -24,6 +25,14 @@ TROUBLE SHOOTING
 1. Firewall
 2. Proxy
 3. Use FireFox/Chrome Browser
+
+SAMPLE K8S APPLICATION
+
+Step 1: export KUBECONFIG=<kubeconfig path>
+
+Step 2: kubectl run ojet-app --image=venkat65/ojet-app:v1
+
+Step 3: kubectl expose deployment ojet-app --type=LoadBalancer --name my-service --port=3000
 
 
 
