@@ -1,4 +1,4 @@
-Please use FireFox/Chrome on Windows/Mac.
+
 
 USEFUL UTILITIES
 1. Putty/Pagent (Windows)
@@ -23,7 +23,7 @@ TROUBLE SHOOTING
 
 1. Firewall
 2. Proxy
-
+3. Use FireFox/Chrome Browser
 
 
 
