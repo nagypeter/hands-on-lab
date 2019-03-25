@@ -12,6 +12,13 @@ public ssh key
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDRlruQUhAj6w1cwe/vSKHo9BgbCqrYDgMDdjNJW2eWvpBE5Nn1ecHKJuPo3l6Fbfw9PfdPyoxm9kaTnTBjGYdPmTvRsywkHX0m9IH26M9pCdKZzNrxRzileQrtzP1k/VmO/+9Ht6U6mzv4mU51p6KfLP2+dNCIOYXhjAxlKKg4e0krOlGZ//w8YjKtmFwbl/74tSd0/QROCfTLWSx0Jw+PofAitJ03iZh8nf3eZn5Zoxn4+Vg3zR3/8YWSYvxxb08NineQ91qKyr8w0HXltwc+LfUj40F3KbhvzcpzCHYZ7Nrgi39TTBsX4xTTqXvOdEBjP3wm/lBYVZ+wVPFEFlqP oci-testdrive
 ```
 
+Tutorial
+1. https://www.oracle.com/webfolder/technetwork/tutorials/obe/oci/oke-full/index.html
+2. https://www.oracle.com/webfolder/technetwork/tutorials/obe/oci/registry/index.html
+3. https://www.oracle.com/webfolder/technetwork/tutorials/obe/oci/oke-and-registry/index.html
+4. https://www.oracle.com/webfolder/technetwork/tutorials/obe/oci/wercker/index.html
+5. http://go.oracle.com/container-native-development
+
 
 LINKS
 1. https://ocitraining.qloudable.com/
@@ -30,14 +37,7 @@ TROUBLE SHOOTING
 2. Proxy
 3. Use FireFox/Chrome Browser
 
-SAMPLE K8S APPLICATION
-```sh
 
-Step 1: export KUBECONFIG=<kubeconfig path>
-
-Step 2: kubectl run ojet-app --image=venkat65/ojet-app:v1
-
-Step 3: kubectl expose deployment ojet-app --type=LoadBalancer --name my-service --port=3000
 ```
 
 
