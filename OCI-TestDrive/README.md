@@ -3,7 +3,7 @@
 USEFUL UTILITIES
 1. Putty/Pagent (Windows) : https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 2. (Optional) Cmder (Windows): https://github.com/cmderdev/cmder/releases/download/v1.3.11/cmder_mini.zip
-3. git : https://git-scm.com/downlo ads
+3. git : https://git-scm.com/downloads
 4. kubectl : https://kubernetes.io/docs/tasks/tools/install-kubectl/#install-kubectl-binary-using-curl
 5. helm : https://helm.sh/docs/using_helm/#installing-helm
 
