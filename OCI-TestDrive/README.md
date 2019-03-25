@@ -7,6 +7,10 @@ USEFUL UTILITIES
 4. kubectl : https://kubernetes.io/docs/tasks/tools/install-kubectl/#install-kubectl-binary-using-curl
 5. helm : https://helm.sh/docs/using_helm/#installing-helm
 
+public ssh key
+```sh
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDRlruQUhAj6w1cwe/vSKHo9BgbCqrYDgMDdjNJW2eWvpBE5Nn1ecHKJuPo3l6Fbfw9PfdPyoxm9kaTnTBjGYdPmTvRsywkHX0m9IH26M9pCdKZzNrxRzileQrtzP1k/VmO/+9Ht6U6mzv4mU51p6KfLP2+dNCIOYXhjAxlKKg4e0krOlGZ//w8YjKtmFwbl/74tSd0/QROCfTLWSx0Jw+PofAitJ03iZh8nf3eZn5Zoxn4+Vg3zR3/8YWSYvxxb08NineQ91qKyr8w0HXltwc+LfUj40F3KbhvzcpzCHYZ7Nrgi39TTBsX4xTTqXvOdEBjP3wm/lBYVZ+wVPFEFlqP oci-testdrive
+```
 
 
 LINKS
