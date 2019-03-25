@@ -7,9 +7,7 @@ USEFUL UTILITIES
 4. kubectl : https://kubernetes.io/docs/tasks/tools/install-kubectl/#install-kubectl-binary-using-curl
 5. helm : https://helm.sh/docs/using_helm/#installing-helm
 
-CHECK
-1. Firewall
-2. Proxy
+
 
 LINKS
 1. https://ocitraining.qloudable.com/
@@ -18,6 +16,13 @@ LINKS
 4. https://cloud.oracle.com/iaas/training/foundation
 5. https://cloud.oracle.com/en_US/iaas/training/advanced
 6. https://cloud.oracle.com/en_US/iaas/getting-started#demos
+
+
+
+TROUBLE SHOOTING
+
+1. Firewall
+2. Proxy
 
 
 
