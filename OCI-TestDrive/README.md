@@ -18,6 +18,9 @@ Tutorial
 3. https://www.oracle.com/webfolder/technetwork/tutorials/obe/oci/oke-and-registry/index.html
 4. https://www.oracle.com/webfolder/technetwork/tutorials/obe/oci/wercker/index.html
 5. http://go.oracle.com/container-native-development
+6. https://kubernetes.io/docs/tutorials/
+7. https://kubernetes.io/docs/tasks/
+
 
 
 LINKS
@@ -28,6 +31,7 @@ LINKS
 5. https://cloud.oracle.com/en_US/iaas/training/advanced
 6. https://cloud.oracle.com/en_US/iaas/getting-started#demos
 7. https://docs.cloud.oracle.com/iaas/Content/ContEng/Concepts/contengoverview.htm
+8. https://kubernetes.io/docs/reference/kubectl/cheatsheet/
 
 
 
